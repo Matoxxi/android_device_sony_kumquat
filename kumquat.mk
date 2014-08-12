@@ -20,7 +20,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/sony/kumquat/include
 
 # Bootanimation
 PRODUCT_COPY_FILES += \
-   $(LOCAL_PATH)/../../../vendor/cm/prebuilt/common/bootanimation/480.zip:system/media/bootanimation.zip
+   $(LOCAL_PATH)/../../../vendor/carbon/prebuilt/common/bootanimation/480.zip:system/media/bootanimation.zip
 
 # Device specific configuration scripts
 PRODUCT_COPY_FILES += \
